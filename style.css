@@ -1,0 +1,11 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: Bradley Hand, cursive, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: oblique;
+  color: #9662f0;
+}
